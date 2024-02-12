@@ -10,4 +10,6 @@ From this I expanded on [Carlos Asmat](http://carlitoscontraptions.blogspot.com)
 
 This is [Carlos Asmat](http://carlitoscontraptions.blogspot.com) original [code](https://github.com/Darian-Frey/LED_Cube/blob/main/Arduino/POV_code/led_pov.pde)
 
-An 8 by 8 by 8, led cube I built around August 2009
+Unfortunatley the LED cude did not survive the past 15 years unscaved, some of teh LED's have stopped working and I feel a repair would be too complicated, I think I'll try and build a new one using shift registers this time.
+
+A 6 by 6 by 6, led cube I built around August 2009
